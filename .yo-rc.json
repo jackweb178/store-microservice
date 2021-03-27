@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "gn.balde.jee.store"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "store",
+    "packageName": "gn.balde.jee.store",
+    "packageFolder": "gn/balde/jee/store",
+    "serverPort": "8022",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OGZhMTVmNmJiYTg5Zjk4NTc3M2FjY2ZiM2YzMDViOGFmZjNiZWViYWZhMWRmNDA4N2RjMTZjMzdlNWZlOTlmNDBiMDRjMDNkMTYyNjI3OWNkZDg5MTZjMTQ3YjUxMmIwNzgwOGMyMjYyYjE2YjUzYzRkNmZlOGU0YTU1ZDU2Zjk=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1616863423780,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
