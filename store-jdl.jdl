@@ -1,0 +1,5 @@
+entity Product {
+  title String required,
+  price BigDecimal required min(0),
+  image ImageBlob
+}
